@@ -60,7 +60,7 @@ body {
         position: absolute;
         top: 820px !important;
         /* margin-bottom: 20px; */
-        bottom: -250px;
+        /* bottom: -250px; */
     }
 
     .footer {
